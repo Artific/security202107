@@ -43,8 +43,12 @@ Modern cryptography(現代密碼)
           
 Quantum cryptography(量子密碼)
 　　安全性基礎 ==＞量子力學基本原理
+    利用量子力學的特性來加密的科學
+    https://en.wikipedia.org/wiki/Quantum_cryptography
 
 POST-Quantum cryptography(後量子密碼)
+    cryptographic algorithms (usually public-key algorithms) that are thought to be secure against a cryptanalytic attack by a quantum computer
+    https://en.wikipedia.org/wiki/Post-quantum_cryptography
 ```
 # 3_Classic cryptography(古典密碼)
 ```
