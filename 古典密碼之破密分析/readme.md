@@ -86,6 +86,9 @@ https://zh.wikipedia.org/wiki/ROT13
 ### 凱撒密碼(Caesar cipher)
 ```
 https://en.wikipedia.org/wiki/Caesar_cipher
+
+
+https://www.scientificamerican.com/article/crack-the-code-make-a-caesar-cipher/
 ```
 ```
 https://www.dcode.fr/caesar-cipher
