@@ -1,15 +1,19 @@
 # agenda
 ```
 1_密碼學 ==>加密與解密
+
 2_密碼學類型
+
 3_古典密碼
   ROT13（rotate by 13 places|ROT-13)
   凱撒密碼(Caesar cipher)
   維吉尼亞密碼(Vigenère cipher)
   古希臘斯巴達的密碼棒
+  
 4_破密分析與攻擊
   brute force attack 暴力破解
   Frequency analysis 頻率分析
+  
 5_工具與技術
 ```
 ### 上課時程 : 1-2小時
