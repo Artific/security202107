@@ -36,7 +36,8 @@ transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼)
 [1] Substitution ciphers替換式密碼
 
      字母（或是字母群）作有系統的代換，直到訊息被替換成其它難以解讀的字
-     In a substitution cipher, letters (or groups of letters) are systematically replaced throughout the message for other letters (or groups of letters)
+     In a substitution cipher, letters (or groups of letters) are systematically replaced 
+     throughout the message for other letters (or groups of letters)
     
     Caesar cipher
    
