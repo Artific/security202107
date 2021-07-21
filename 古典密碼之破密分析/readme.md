@@ -74,30 +74,35 @@ transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼)
     scytale 古希臘斯巴達的密碼棒
     Rail fence cipher
 ```
+## [1] Substitution ciphers替換式密碼
 ### ROT13（rotate by 13 places|ROT-13)
 ```
 https://zh.wikipedia.org/wiki/ROT13
 ```
 ### 凱撒密碼(Caesar cipher)
 ```
-
+https://en.wikipedia.org/wiki/Caesar_cipher
+```
+```
+https://www.dcode.fr/caesar-cipher
 ```
 ### Affine cipher
 ```
-
+https://en.wikipedia.org/wiki/Affine_cipher
 ```
 
 ### 維吉尼亞密碼(Vigenère cipher)
 ```
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 ```
+## [2]transposition ciphers(移項式密碼) 
 ### 古希臘 斯巴達的密碼棒
 ```
 https://en.wikipedia.org/wiki/Scytale
 ```
 ### Rail fence cipher
 ```
-
+https://en.wikipedia.org/wiki/Rail_fence_cipher
 ```
 # 4_破密分析與攻擊(Cryptanalysis of classical ciphers)
 ```
