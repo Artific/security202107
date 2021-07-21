@@ -65,6 +65,7 @@ Classical ciphers are often divided into
 transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼).
 
 [1] Substitution ciphers替換式密碼
+    https://en.wikipedia.org/wiki/Substitution_cipher
 
      字母（或是字母群）作有系統的代換，直到訊息被替換成其它難以解讀的字
      In a substitution cipher, letters (or groups of letters) are systematically replaced 
