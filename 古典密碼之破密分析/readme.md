@@ -1,12 +1,18 @@
 # agenda
 ```
-古典密碼
-ROT13（rotate by 13 places|ROT-13)
-凱撒密碼(Caesar cipher)
-維吉尼亞密碼
-古希臘斯巴達的密碼棒
+1_密碼學 ==>加密與解密
+2_密碼學類型
+3_古典密碼
+  ROT13（rotate by 13 places|ROT-13)
+  凱撒密碼(Caesar cipher)
+  維吉尼亞密碼
+  古希臘斯巴達的密碼棒
+4_破密分析與攻擊
+  brute force attack 暴力破解
+  Frequency analysis 頻率分析
+5_工具與技術
 ```
-# 密碼學 ==>加密與解密
+# 1_密碼學 ==>加密與解密
 ```
 https://en.wikipedia.org/wiki/Cryptography
 
@@ -18,7 +24,7 @@ https://en.wikipedia.org/wiki/Cryptography
 範例 ==> Vigenère square
 https://en.wikipedia.org/wiki/Classical_cipher
 ```
-# 密碼學類型
+# 2_密碼學類型
 ```
 https://en.wikipedia.org/wiki/Cryptography
 
@@ -27,7 +33,7 @@ Modern cryptography(現代密碼)
 Quantum cryptography(量子密碼)
 POST-Quantum cryptography(後量子密碼)
 ```
-# Classic cryptography(古典密碼)
+# 3_Classic cryptography(古典密碼)
 ```
 經典密碼大致上分為替換式密碼和移項式密碼
 Classical ciphers are often divided into 
@@ -68,7 +74,7 @@ https://en.wikipedia.org/wiki/Scytale
 ```
 
 ```
-# B_破密分析與攻擊
+# 4_破密分析與攻擊
 ```
 brute force attack 暴力破解
 Frequency analysis 頻率分析
@@ -89,7 +95,7 @@ https://en.wikipedia.org/wiki/Frequency_analysis
 比如，在英語中，字母E出現的頻率很高，而X則出現得較少。類似地，ST、NG、TH，以及QU等雙字母組合出現的頻率非常高，NZ、QJ組合則極少。
 英語中出現頻率最高的12個字母可以簡記為「ETAOIN SHRDLU」
 ```
-# C_工具與技術
+# 5_工具與技術
 ```
 
 ```
