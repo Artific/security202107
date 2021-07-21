@@ -97,15 +97,24 @@ https://www.dcode.fr/caesar-cipher
 ```
 https://en.wikipedia.org/wiki/Affine_cipher
 ```
-
+```
+Crypto102/School CTF 2015: affine-cipher-100(教)
+```
 ### 維吉尼亞密碼(Vigenère cipher)
 ```
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+```
+
+```
+Crypto102/Vigenère cipher
 ```
 ## [2]transposition ciphers(移項式密碼) 
 ### 古希臘 斯巴達的密碼棒
 ```
 https://en.wikipedia.org/wiki/Scytale
+```
+```
+EKOPARTY CTF 2015: SCYTCRYPTO
 ```
 ### Rail fence cipher
 ```
@@ -125,6 +134,10 @@ https://en.wikipedia.org/wiki/Brute-force_attack
 
 例如：一個已知是四位數並且全部由阿拉伯數字組成的密碼，其可能共有10000種組合，因此最多嘗試9999次就能找到正確的密碼
 ```
+```
+ABCTF 2016 : ceasar-salad-10
+Crypto102/angstromCTF 2017:The Beginning
+```
 ## Frequency analysis 頻率分析
 ```
 Frequency analysis
@@ -137,13 +150,47 @@ https://en.wikipedia.org/wiki/Frequency_analysis
 比如，在英語中，字母E出現的頻率很高，而X則出現得較少。類似地，ST、NG、TH，以及QU等雙字母組合出現的頻率非常高，NZ、QJ組合則極少。
 英語中出現頻率最高的12個字母可以簡記為「ETAOIN SHRDLU」
 ```
+```
+Pico CTF 2014 : Substitution
+Crypto102/angstromCTF2016: artifact-20
+```
 # 5_工具與技術
 ```
 基礎篇 == >使用線上工具
 中級篇 == >使用指令
 高級篇 == >Python 程式解題
 ```
-# 後續課程
+# Python 程式解題
 ```
+Crypto101/RC3 CTF 2016 : salad-100
 
+“The fault, dear Brutus, is not in our stars, but in ourselves.”
+(I.ii.141) Julius Caesar in William Shakespeare’s Julius Caesar
+
+Cipher Text: 7sj-ighm-742q3w4t
+```
+```
+import string
+
+caesaralpha = "abcdefghijklmnopqrstuvwxyz0123456789"
+
+def caesar(input_string, rot):
+    output_string = ""
+    for i in range(len(input_string)):
+        if input_string[i].isalnum():
+            idx = (caesaralpha.find(input_string[i]) + rot) % len(caesaralpha)
+            output_string += caesaralpha[idx]
+        else:
+            output_string += input_string[i]
+    return output_string
+
+enc = '7sj-ighm-742q3w4t' # encrypt data
+
+for i in range(len(caesaralpha)):
+    mystr = caesar(enc, i)
+    print(mystr.upper())
+```
+```
+Crypto102/PicoCTF_2018-caesar cipher 2
+Crypto102/School CTF 2015: affine-cipher-100(教)
 ```
