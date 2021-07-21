@@ -12,6 +12,8 @@
   Frequency analysis 頻率分析
 5_工具與技術
 ```
+### 上課時程 : 1-2小時
+
 # 1_密碼學 ==>加密與解密
 ```
 https://en.wikipedia.org/wiki/Cryptography
