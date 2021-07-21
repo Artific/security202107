@@ -97,7 +97,7 @@ https://en.wikipedia.org/wiki/Access_control
 3A == AAA == Authentication, Authorization and Accounting.
 https://en.wikipedia.org/wiki/AAA_(computer_security)
 
-認證(Authentication)與鑑別性(Authenticity)
+認證(Authentication)
 授權(Authorization)
 紀錄(Accounting) 
 ```
