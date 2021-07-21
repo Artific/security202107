@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Cryptography
 ```
 ```
 範例 ==> Vigenère square
-
+https://en.wikipedia.org/wiki/Classical_cipher
 ```
 # 密碼學類型
 ```
@@ -68,10 +68,10 @@ https://en.wikipedia.org/wiki/Scytale
 ```
 
 ```
-# 破密分析與攻擊
+# B_破密分析與攻擊
 ```
-brute force attack
-Frequency analysis
+brute force attack 暴力破解
+Frequency analysis 頻率分析
 ```
 ## brute force attack 暴力破解
 ```
@@ -88,6 +88,10 @@ https://en.wikipedia.org/wiki/Frequency_analysis
 而且，對於以這種語言書寫的任意一段文本，都具有大致相同的特徵字母分布。
 比如，在英語中，字母E出現的頻率很高，而X則出現得較少。類似地，ST、NG、TH，以及QU等雙字母組合出現的頻率非常高，NZ、QJ組合則極少。
 英語中出現頻率最高的12個字母可以簡記為「ETAOIN SHRDLU」
+```
+# C_工具與技術
+```
+
 ```
 # 後續課程
 ```
