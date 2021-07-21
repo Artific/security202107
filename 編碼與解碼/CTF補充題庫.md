@@ -38,3 +38,13 @@ https://www.dcode.fr/brainfuck-language
 
 flag{Happy Security DAY 202107}
 ```
+## 補充題
+```
+求解無字天書
+
+\u006d\u0079\u0066\u006c\u0061\u0067\u007b\u0048\u0061\u0050\u0050\u0050\u0050\u0079 \u0053\u0065\u0063\u0075\u0072\u0069\u0069\u0069\u0074\u0079 \u0044\u0044\u0044\u007d
+```
+```
+https://www.branah.com/unicode-converter
+myflag{HaPPPPy Securiiity DDD}
+```
