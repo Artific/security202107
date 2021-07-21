@@ -38,7 +38,7 @@ https://www.dcode.fr/brainfuck-language
 
 flag{Happy Security DAY 202107}
 ```
-## 補充題
+## 補充題 3
 ```
 求解無字天書
 
