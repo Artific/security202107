@@ -36,8 +36,13 @@ https://en.wikipedia.org/wiki/Classical_cipher
 https://en.wikipedia.org/wiki/Cryptography
 
 Classic cryptography(古典密碼|經典密碼)
+
 Modern cryptography(現代密碼)
+   安全性基礎 ==＞ computational hardness assumptions
+
 Quantum cryptography(量子密碼)
+　　安全性基礎 ==＞量子力學基本原理
+
 POST-Quantum cryptography(後量子密碼)
 ```
 # 3_Classic cryptography(古典密碼)
@@ -52,7 +57,7 @@ transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼)
      In a substitution cipher, letters (or groups of letters) are systematically replaced 
      throughout the message for other letters (or groups of letters)
     
-    單字母替代式密碼(monoalphabetic substitution ciphers) == > Caesar cipher
+    單字母替代式密碼(monoalphabetic substitution ciphers) == > Caesar cipher | Affine cipher
    
     多字母替代式密碼(polyalphabetic substitution ciphers) == > Vigenère cipher
     
@@ -65,6 +70,10 @@ transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼)
 https://zh.wikipedia.org/wiki/ROT13
 ```
 ### 凱撒密碼(Caesar cipher)
+```
+
+```
+### Affine cipher
 ```
 
 ```
