@@ -18,11 +18,18 @@ https://en.wikipedia.org/wiki/Cryptography
 
 明文(Plaintext)與密文(ciphertext)
 金鑰(key)
-加密與解密
+加密(encryption)與解密
 ```
 ```
 範例 ==> Vigenère square
 https://en.wikipedia.org/wiki/Classical_cipher
+
+
+明文(Plaintext)  ==>	ATTACKATDAWN
+金鑰(key)        ==>	LEMONLEMONLE
+密文(ciphertext) ==>	LXFOPVEFRNHR
+
+
 ```
 # 2_密碼學類型
 ```
@@ -45,9 +52,9 @@ transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼)
      In a substitution cipher, letters (or groups of letters) are systematically replaced 
      throughout the message for other letters (or groups of letters)
     
-    Caesar cipher
+    單字母替代式密碼(monoalphabetic substitution ciphers) == > Caesar cipher
    
-    polyalphabetic substitution cipher == > Vigenère cipher
+    多字母替代式密碼(polyalphabetic substitution ciphers) == > Vigenère cipher
     
 [2]transposition ciphers(移項式密碼)   
     scytale 古希臘斯巴達的密碼棒
