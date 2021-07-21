@@ -74,7 +74,9 @@ transposition ciphers(移項式密碼) and substitution ciphers(替換式密碼)
    
     多字母替代式密碼(polyalphabetic substitution ciphers) == > Vigenère cipher
     
-[2]transposition ciphers(移項式密碼)   
+[2]transposition ciphers(移項式密碼) 
+   https://en.wikipedia.org/wiki/Transposition_cipher
+   
     scytale 古希臘斯巴達的密碼棒
     Rail fence cipher
 ```
