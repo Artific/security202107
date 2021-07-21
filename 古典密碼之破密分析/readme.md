@@ -122,7 +122,9 @@ https://en.wikipedia.org/wiki/Frequency_analysis
 ```
 # 5_工具與技術
 ```
-
+基礎篇 == >使用線上工具
+中級篇 == >使用指令
+高級篇 == >Python 程式解題
 ```
 # 後續課程
 ```
