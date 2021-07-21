@@ -5,7 +5,7 @@
 3_古典密碼
   ROT13（rotate by 13 places|ROT-13)
   凱撒密碼(Caesar cipher)
-  維吉尼亞密碼
+  維吉尼亞密碼(Vigenère cipher)
   古希臘斯巴達的密碼棒
 4_破密分析與攻擊
   brute force attack 暴力破解
@@ -79,11 +79,11 @@ https://zh.wikipedia.org/wiki/ROT13
 
 ```
 
-### 維吉尼亞密碼
+### 維吉尼亞密碼(Vigenère cipher)
 ```
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 ```
-### 古希臘斯巴達的密碼棒
+### 古希臘 斯巴達的密碼棒
 ```
 https://en.wikipedia.org/wiki/Scytale
 ```
