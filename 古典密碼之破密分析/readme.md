@@ -91,7 +91,7 @@ https://en.wikipedia.org/wiki/Scytale
 ```
 
 ```
-# 4_破密分析與攻擊
+# 4_破密分析與攻擊(Cryptanalysis of classical ciphers)
 ```
 brute force attack 暴力破解
 Frequency analysis 頻率分析
