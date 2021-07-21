@@ -100,8 +100,8 @@ https://en.wikipedia.org/wiki/Scytale
 ```
 # 4_破密分析與攻擊(Cryptanalysis of classical ciphers)
 ```
-brute force attack 暴力破解
-Frequency analysis 頻率分析
+brute force attack 暴力破解 == > 金鑰個數有限
+Frequency analysis 頻率分析 == > 金鑰個數比較多
 ```
 ## brute force attack 暴力破解
 ```
