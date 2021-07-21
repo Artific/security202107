@@ -47,7 +47,8 @@ Quantum cryptography(量子密碼)
     https://en.wikipedia.org/wiki/Quantum_cryptography
 
 POST-Quantum cryptography(後量子密碼)
-    cryptographic algorithms (usually public-key algorithms) that are thought to be secure against a cryptanalytic attack by a quantum computer
+    cryptographic algorithms (usually public-key algorithms) that are thought to be secure 
+    against a cryptanalytic attack by a quantum computer
     https://en.wikipedia.org/wiki/Post-quantum_cryptography
 ```
 # 3_Classic cryptography(古典密碼)
