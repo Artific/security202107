@@ -39,7 +39,8 @@ Classic cryptography(古典密碼|經典密碼)
 
 Modern cryptography(現代密碼)
    安全性基礎 ==＞ computational hardness assumptions
-
+　　　　　RSA ==＞ integer factorization algorithms
+          
 Quantum cryptography(量子密碼)
 　　安全性基礎 ==＞量子力學基本原理
 
