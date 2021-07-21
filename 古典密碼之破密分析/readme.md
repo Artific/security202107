@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Cryptography
 
 明文(Plaintext)與密文(ciphertext)
 金鑰(key)
-加密(encryption)與解密
+加密(encryption)與解密(decryption)
 ```
 ```
 範例 ==> Vigenère square
@@ -31,7 +31,8 @@ https://en.wikipedia.org/wiki/Classical_cipher
 金鑰(key)        ==>	LEMONLEMONLE
 密文(ciphertext) ==>	LXFOPVEFRNHR
 
-
+加密(encryption) ==> 明文(Plaintext)變密文(ciphertext)
+解密(decryption) ==> 密文(ciphertext)變明文(Plaintext)
 ```
 # 2_密碼學類型
 ```
