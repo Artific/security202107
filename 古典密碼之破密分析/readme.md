@@ -111,7 +111,12 @@ Frequency analysis 頻率分析 == > 金鑰個數比較多
 ```
 ## brute force attack 暴力破解
 ```
+https://en.wikipedia.org/wiki/Brute-force_attack
 
+蠻力攻擊（英語：Brute-force attack），又稱為窮舉攻擊（英語：Exhaustive attack）或暴力破解，是一種密碼分析的方法
+將密碼進行逐個推算直到找出真正的密碼為止
+
+例如：一個已知是四位數並且全部由阿拉伯數字組成的密碼，其可能共有10000種組合，因此最多嘗試9999次就能找到正確的密碼
 ```
 ## Frequency analysis 頻率分析
 ```
